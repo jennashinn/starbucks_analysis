@@ -2,10 +2,10 @@
 
 This is a Python implementation of a **Machine Learning** project using **KMeans Clustering** to create customer clusters for marketing analysis.
 
-**Data Source**
+**Data Source** <br>
 This data was provided by Starbucks and can be downloaded from [Kaggle](https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data). 
 
-### Outline
+### **Outline**
 **Part 1: Cleaning**
 - Handling missing values
 - Adjusting data types
